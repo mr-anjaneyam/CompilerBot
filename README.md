@@ -5,7 +5,7 @@ The bot allows users to send Python code snippets or files and receive the corre
 
 ## Features
 
-- Accepts Python code as text or file
+- Accepts Python code as text
 - Compiles and executes the code
 - Captures and displays standard output and error messages
 - Handles dynamic user inputs during code execution
