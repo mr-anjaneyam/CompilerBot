@@ -14,7 +14,7 @@ The bot allows users to send Python code snippets or files and receive the corre
 ## Usage
 
 1. Start the bot by sending the `/start` command.
-2. To compile code, send the `/compile` command.
+2. To compile code, send the code snippet.
 3. Send the Python code you want to compile as text or upload a file containing the code.
 4. The bot will execute the code and send back the output or error message.
 5. If the code prompts for user input, the bot will ask for the input dynamically.
